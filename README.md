@@ -15,8 +15,6 @@
 ♡ Tech Stack
 <img align="right" src="https://i.imgflip.com/an2j0n.gif" width="250"/>
 
-## 🛠 Tech Stack 💖
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-ff69b4?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-ff69b4?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white)
