@@ -13,10 +13,7 @@
 - 🧼 Writing cleaner, more efficient systems
   
 ♡ Tech Stack
-
-<table>
-<tr>
-<td width="60%">
+<img align="right" src="https://media.tenor.com/8Qf0N9u7Yy0AAAAC/new-game-ahagon-umiko.gif" width="300"/>
 
 ## 🛠 Tech Stack 💖
 
@@ -29,13 +26,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff69b4?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-ff69b4?style=for-the-badge&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=java&logoColor=white)
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media.tenor.com/8Qf0N9u7Yy0AAAAC/new-game-ahagon-umiko.gif" width="250"/>
-
-</td>
-</tr>
-</table>
