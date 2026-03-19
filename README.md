@@ -14,6 +14,10 @@
   
 ♡ Tech Stack
 
+<table>
+<tr>
+<td width="60%">
+
 ## 🛠 Tech Stack 💖
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-ff69b4?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -26,4 +30,12 @@
 ![Docker](https://img.shields.io/badge/Docker-ff69b4?style=for-the-badge&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=java&logoColor=white)
 
-<img src="https://media.tenor.com/8Qf0N9u7Yy0AAAAC/new-game-ahagon-umiko.gif" width="300"/>
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.tenor.com/8Qf0N9u7Yy0AAAAC/new-game-ahagon-umiko.gif" width="250"/>
+
+</td>
+</tr>
+</table>
